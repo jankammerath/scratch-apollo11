@@ -1,4 +1,4 @@
-# Apollo 11 landing o the moon
+# Apollo 11 landing on the moon
 
 [Play the game in your browser now](https://jankammerath.github.io/scratch-apollo11/apollo11.html)
 
